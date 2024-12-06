@@ -1,2 +1,3 @@
 # adarsh-demo
-git repository Author - Adarsh 
+git repository Author 
+- Adarsh 
